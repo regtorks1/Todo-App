@@ -1,0 +1,42 @@
+body{
+    background-color: #c6d8d1ab;
+    margin: 10%;
+}
+
+#heading2{
+    text-align: center;
+    font-family: cursive;
+}
+
+
+#beautyK{
+    text-align: center;
+    font-family: cursive;
+    color: azure;
+}
+
+#Morning_break{
+    
+    border: 1px solid #2f90ff;
+    background-color:   #718028;
+    font-family: cursive;
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+    text-decoration: line-through;
+
+}
+#link{
+    text-align: center;
+    margin: 5%;
+    height: 20px;
+    line-height: 20px;
+    padding: 15px;        
+    border: none;
+
+}
+
+
+

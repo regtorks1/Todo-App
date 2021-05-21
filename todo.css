@@ -1,0 +1,62 @@
+body {
+    background-color: #ffcccc;
+    margin: 10%;
+    padding: 0%;
+}
+
+#heading{
+ text-align: center; 
+ font-family: cursive;
+}
+
+#beauty{
+    text-align: center;
+    font-family: cursive;
+    color: azure
+}
+
+#routine{
+    font-family: cursive;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+       
+}
+
+#routine:hover{
+   cursor: grab;
+   
+}
+
+#afternoon{
+    float:left;
+    border: 1px solid green;
+    background-color:   #77C3A9;
+    
+}
+
+#morning{
+    border: 1px solid green;
+    background-color: aquamarine;
+}
+
+#evening{
+    border: 1px solid green;
+    background-color: #ADC9C0;
+}
+
+#form{
+    margin-top: 5%;
+    text-align: center;
+}
+
+#desp_{
+    text-align: center;
+    margin: 5%;
+    height: 20px;
+    line-height: 20px;
+    padding: 15px;        
+    border: none;
+
+}
+
